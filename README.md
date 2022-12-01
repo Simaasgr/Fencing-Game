@@ -13,6 +13,8 @@ enum: énumération des états des joueurs.
 random: génération d’un nombre aléatoire pour l’IA.
 
 Voici les différents controles pour jouer au jeu: 
+
+
  JOUEUR 1: 
     [Q] move left
     [D] move right
